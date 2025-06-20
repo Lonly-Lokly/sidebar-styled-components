@@ -4,6 +4,9 @@
 
 Запуск проекта `npm run dev`
 
+Реализация доступна по адресу:  
+**(https://lonly-lokly.github.io/sidebar-styled-components/)**
+
 ## Задание
 
 Сверстать компонент `/src/components/Sidebar.jsx` по дизайну c использованием styled-components.
